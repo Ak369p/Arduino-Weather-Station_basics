@@ -1,3 +1,4 @@
+
 weather-station-arduino/
 ├── README.md
 └── weather_station.ino
@@ -42,14 +43,18 @@ Install the **DHT sensor library** by Adafruit:
 Also install **Adafruit Unified Sensor Library**
 
 ## 🚀 Getting Started
-![WhatsApp Image 2025-05-01 at 02 36 00_c84f6888](https://github.com/user-attachments/assets/1497d12b-bf39-493c-991f-04a4e0ed56e6)
-![WhatsApp Image 2025-05-01 at 02 36 00_9549f917](https://github.com/user-attachments/assets/7ad802ba-586e-47b8-81ca-cd1d0ca83abd)
-![WhatsApp Image 2025-05-01 at 02 36 00_8d03a972](https://github.com/user-attachments/assets/b3ff1b44-12ac-4b03-9994-6aa1f79d9775)
-![WhatsApp Image 2025-05-01 at 02 36 01_7857f650](https://github.com/user-attachments/assets/97668445-4f99-43e1-beb1-7d2b9bbee008)
-![WhatsApp Image 2025-05-01 at 02 36 01_5963a9c5](https://github.com/user-attachments/assets/830fd568-2317-469a-b7ef-046222b567bc)
-![WhatsApp Image 2025-05-01 at 02 36 01_6e4d5542](https://github.com/user-attachments/assets/3fae00d7-1bbc-433d-afe0-c6dd057dcd3d)
 
 Upload the sketch below to your Arduino Nano and open the **Serial Monitor** at **9600 baud**.
+![WhatsApp Image 2025-05-01 at 02 36 00_8d03a972](https://github.com/user-attachments/assets/c159205f-4836-4da4-91db-22d1ec904a7f)
+![WhatsApp Image 2025-05-01 at 02 36 00_9549f917](https://github.com/user-attachments/assets/bc82fefb-5db3-49a0-ac58-373fa05709c2)
+![WhatsApp Image 2025-05-01 at 02 36 01_6e4d5542](https://github.com/user-attachments/assets/58098d7d-168c-43a2-981b-263ba1297d1e)
+![WhatsApp Image 2025-05-01 at 02 36 00_c84f6888](https://github.com/user-attachments/assets/c7ab2394-8fda-4b62-8015-554230e01dab)
+![WhatsApp Image 2025-05-01 at 02 36 01_7857f650](https://github.com/user-attachments/assets/27473b4c-5356-4c06-b384-16c25db0c4d2)
+
+
+
+
+
 
 ## 📄 Source Code
 
